@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://waumr.github.io/JcG/sitemap.JcG
